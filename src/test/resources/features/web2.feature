@@ -7,3 +7,4 @@ Feature: Web2
     Given kullanici sayfaya gider
     Then click on the loginYeni button
     Then accept alert
+
